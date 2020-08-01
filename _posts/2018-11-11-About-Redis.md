@@ -1,0 +1,1 @@
+# How we use redis as the main storage in project.
