@@ -1,4 +1,11 @@
+---
+layout: post
+title:  "Something about spring"
+categories: tech
+---
+
 ## Contents
+
 - [Contents](#contents)
 - [Spring Basic](#spring-basic)
     - [IOC](#ioc)
